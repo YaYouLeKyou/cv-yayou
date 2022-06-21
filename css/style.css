@@ -37,9 +37,7 @@ canvas {
 }
 header {
   width: 100%;
-}
-
-main {
+}main {
   overflow: hidden;
   margin: 0;
   padding: 0%;
